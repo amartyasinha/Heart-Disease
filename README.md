@@ -33,6 +33,14 @@ The dataset was preprocessed as follows:
 
 The dataset was then split into training and testing sets, with a test size of 0.2 and a random state of 42. Three machine learning algorithms were applied to the dataset:
 
+1. Logistic Regression
+2. Decision Tree
+3. K-Nearest Neighbors (KNN)
+
+## Results
+
+Here is the Accuracy Results for these machine learning algorithms:
+
 1. Logistic Regression:
    - Accuracy: 0.867
 
@@ -47,5 +55,3 @@ The dataset was then split into training and testing sets, with a test size of 0
 The confusion matrices for each model were visualized using heatmaps. The accuracy scores and confusion matrices are available in the code.
 
 Please refer to the code for more details on the implementation.
-
-Feel free to explore and enhance the project further!
